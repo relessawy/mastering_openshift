@@ -15,6 +15,6 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/relessawy/mastering_openshift/'
+      uri: 'https://github.com/PacktPublishing/Mastering-OpenShift'
       ref: main
     contextDir: Chapter10/guestbook
